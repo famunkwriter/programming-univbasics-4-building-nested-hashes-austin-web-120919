@@ -29,7 +29,7 @@ def monopoly_with_third_tier
 				:Reading =>{},
         :Pennsylvania =>{},
         :SunsetLtd =>{},
-        
+        :Southwestern =>{}
 			}
 		}
 	}# When you start writing the implementation for this method, copy the Hash
